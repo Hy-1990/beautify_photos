@@ -542,4 +542,4 @@ def beautify(pic_path: str, output_dir: str, gpu='1'):
 
 
 if __name__ == '__main__':
-    print( beautify('C:/Users/yi/Desktop/6.jpg', 'C:/Users/yi/Desktop/'))
+    print(beautify('C:/Users/yi/Desktop/6.jpg', 'result/'))
